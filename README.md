@@ -1,1 +1,1 @@
-# pazeCSS
+# Paze UI
